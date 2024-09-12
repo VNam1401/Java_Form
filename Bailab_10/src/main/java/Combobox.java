@@ -37,6 +37,6 @@ public class Combobox extends JFrame {
         cboPhepTinh.addItem("Trừ");
         cboPhepTinh.addItem("Nhân");
         cboPhepTinh.addItem("Chia");
-
+sta
     }
 }
